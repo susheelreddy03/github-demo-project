@@ -1,0 +1,10 @@
+
+Put this in `.gitignore`:
+
+```text
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
